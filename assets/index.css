@@ -72,7 +72,7 @@ img {
   font-weight: 1000;
   color: #7e7e7f;
 }
-.leer1 {
+.leer {
   width: 400px;
   height: 12px;
   background: rgb(172, 178, 187);
@@ -102,7 +102,7 @@ i:last-child {
   box-shadow: inset -10px 10px 17px #cacaca, inset 10px -10px 17px #f6f6f6;
   color: #19e3f2;
 }
-.leer2 {
+.leer1 {
   height: 10px;
   background-color: white;
   width: 280px;
